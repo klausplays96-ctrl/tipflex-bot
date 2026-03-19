@@ -1161,5 +1161,2515 @@
     ],
     "content": "5$",
     "entry_type": "sale"
+  },
+  {
+    "message_id": "manual_remove_1773108300.666073",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": -1161.94,
+    "timestamp_utc": "2026-03-10T02:05:00.666118+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for verifiedlouis",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "manual_remove_1773108386.374812",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": -665.84,
+    "timestamp_utc": "2026-03-10T02:06:26.374825+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for rem40",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "manual_remove_1773108427.955305",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": -1197.75,
+    "timestamp_utc": "2026-03-10T02:07:07.955319+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for melly010200.",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "1480756891628998788",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 40.0,
+    "timestamp_utc": "2026-03-10T02:39:18.362742+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480756891373273230/Screenshot_2026-03-10_at_10.39.08_AM.png?ex=69b0d5d2&is=69af8452&hm=d377f8b2994a36d93451542bfc5937f09cffa94ea76395d23a7dad79429adf80&"
+    ],
+    "content": "40$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480789987950596248",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-10T04:50:49.113875+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480789987543875685/Screenshot_2026-03-10_at_12.50.36_PM.png?ex=69b0f4a4&is=69afa324&hm=54e058c7fdc443ca9af5391392b8a2e8547adc952a0ce0cd5b80a520f8726f70&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480804379144753237",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-10T05:48:00.253058+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480804379001884804/Screenshot_2026-03-10_at_1.47.48_PM.png?ex=69b1020b&is=69afb08b&hm=690378eff310b918e109590bdc90111b02f9b03da47c5de2369ef9ab01390ee3&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480815063966154855",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 59.99,
+    "timestamp_utc": "2026-03-10T06:30:27.742973+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480815063798513684/Screenshot_2026-03-10_at_2.30.16_PM.png?ex=69b10bff&is=69afba7f&hm=3a8a52c5ac8c73ab2a5ad10da5f2e1466872c70cc339016fd6df8dc87ed3f578&"
+    ],
+    "content": "59.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480905251413561466",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 2.0,
+    "timestamp_utc": "2026-03-10T12:28:45.997848+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480905251107111055/image.png?ex=69b15ffd&is=69b00e7d&hm=1c9b6dfab441eea8f7e5f3b9e768ac6a7ef219994889d6eadecbd8e276e5b6bc&"
+    ],
+    "content": "2$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480923758834483261",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-10T13:42:18.592573+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480923758855196903/image.png?ex=69b1713a&is=69b01fba&hm=4d3b30646d67941ddb235c28a891717bbc88604dbc8e1aef5d4c8a6cad29c0c5&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480956588901667009",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 12.99,
+    "timestamp_utc": "2026-03-10T15:52:45.832040+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480956588620775637/image.png?ex=69b18fcd&is=69b03e4d&hm=6e8008a55fd9166109c44548320d9e52d88253c2cd6f3a28ea18f886c8e1f7ba&"
+    ],
+    "content": "12.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480981639290032220",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-10T17:32:18.356200+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480981638912675900/image.png?ex=69b1a722&is=69b055a2&hm=305ab70b941c1ea879ea521887db3b186cb39de15a3ce3c9802e96d986b106bf&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1480985943208099983",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-10T17:49:24.549255+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1480985942784213012/image.png?ex=69b1ab24&is=69b059a4&hm=ad08e8846b199190d4ab0bde2b8125e344ff36038ee8b790a8bebbad67f04d1f&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481008404456804606",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-10T19:18:39.814785+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481008404087701635/Screenshot_2026-03-10_at_20.18.32.png?ex=69b1c00f&is=69b06e8f&hm=bfc509b51b4c853986d7c482f496027f6614c5530ad454aac688143d1bc09283&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481050577415704598",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 200.0,
+    "timestamp_utc": "2026-03-10T22:06:14.579234+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481050577575215204/Screenshot_2026-03-10_at_23.06.07.png?ex=69b1e756&is=69b095d6&hm=293e76728e1480435837c715688dbff3da7b2b6cc6ea244beea59842b6e34a4d&"
+    ],
+    "content": "200$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481050746370654371",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 200.0,
+    "timestamp_utc": "2026-03-10T22:06:54.932614+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481050745875730542/Screenshot_2026-03-10_at_23.06.46.png?ex=69b1e77e&is=69b095fe&hm=d182ff7b8828427b380f0a4a4f9a48c932854c794ee238a441d789c43cbeb72c&"
+    ],
+    "content": "200$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481066877940928523",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 15.0,
+    "timestamp_utc": "2026-03-10T23:11:00.784547+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481066877655711824/Screenshot_2026-03-11_at_00.10.51.png?ex=69b1f684&is=69b0a504&hm=e2d57cf8a8f5d9138d01cc48bc887a8360f3a85e8c42cd515e72b81b1f93f9f7&"
+    ],
+    "content": "15$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481067854571896862",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-10T23:14:53.653974+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481067854047477821/Screenshot_2026-03-11_at_00.14.48.png?ex=69b1f76d&is=69b0a5ed&hm=7a16c86d2d19870641e77a61908a99d61000fc29eb4d8df29944059878234fe8&"
+    ],
+    "content": "30$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481073374624092323",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 15.0,
+    "timestamp_utc": "2026-03-10T23:36:49.803903+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481073374343204945/Screenshot_2026-03-11_at_00.36.44.png?ex=69b1fc91&is=69b0ab11&hm=3f7494fad63b60271829272fc9beb4d4d9085d0ec90cfda67f9032b938ed3b7a&"
+    ],
+    "content": "15$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481078983092080771",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-10T23:59:07.197856+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481078982823772180/Screenshot_2026-03-11_at_00.58.58.png?ex=69b201ca&is=69b0b04a&hm=d67c12d8a9514ad9d4f71eb25f5cb63a465a220e9bd3efff70ededce85531e15&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481081457353949295",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-11T00:08:56.755017+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481081456947236914/image.png?ex=69b20418&is=69b0b298&hm=e8c38799d06f4e2bb48271267d605f2cd482025ccfba50237a053a119de1ecda&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481088700317171815",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-11T00:37:43.754864+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481088700074037490/Screenshot_2026-03-11_at_01.37.36.png?ex=69b20ad7&is=69b0b957&hm=5f74b2d06cec12b450401b4e7997e48e7b02be17e5ca7210cc5f3cd8a9b78b99&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481100400932294729",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-11T01:24:13.321292+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481100400743415939/Screenshot_2026-03-11_at_02.24.04.png?ex=69b215bd&is=69b0c43d&hm=d15d469233f41dd0f7c768f5068a75f45cd880f876509593cf1c6bae46279e40&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481125163394273281",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-11T03:02:37.289611+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481125163096608839/Screenshot_2026-03-11_at_11.02.29_AM.png?ex=69b22ccc&is=69b0db4c&hm=36e22ce80792fa167207fdbcbbc5d34cbd2bbaa5182141dc7e3703ec7e2e6007&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481161993749659811",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 5.0,
+    "timestamp_utc": "2026-03-11T05:28:58.245809+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481161987395420180/Screenshot_2026-03-11_at_1.28.49_PM.png?ex=69b24f18&is=69b0fd98&hm=21dc089f96e7e8d3c20734b856012e4adc92446c081acde98e30b5dbafbb009d&"
+    ],
+    "content": "5$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481169364987281479",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-11T05:58:15.729461+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481169365100658861/Screenshot_2026-03-11_at_1.58.05_PM.png?ex=69b255f7&is=69b10477&hm=81d864938d04d3e1b0d50e8dae499f2c076e47d50345a4f6fa81929827b6129e&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481208943857504388",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 13.99,
+    "timestamp_utc": "2026-03-11T08:35:31.971451+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481208943572156486/Screenshot_2026-03-11_at_4.35.22_PM.png?ex=69b27ad3&is=69b12953&hm=9681c7d245b7d0b1d370a201feb091ac37c3ce59e33e3e1147672cec8b0544ae&"
+    ],
+    "content": "13.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481238794081665139",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-11T10:34:08.928439+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481238793594994770/image.png?ex=69b296a0&is=69b14520&hm=f8e9161b3787246c2376209d65ff55e44fb2c63fe9f68c082ce8643ebbf09cf9&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481330085280616521",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-11T16:36:54.339320+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481330084898930839/image.png?ex=69b2eba6&is=69b19a26&hm=11b7c3860ea4b6cafd42c88a6af604f080963d4ce6c20177c5dc0e4187ddd9cb&"
+    ],
+    "content": "$34.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481344591130136666",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-11T17:34:32.772964+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481344590857502750/image.png?ex=69b2f928&is=69b1a7a8&hm=5d301f895b688d5ac02fd29fae59321d10e1ce86184ca60d92aac9cab3646bd1&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481389698562658428",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 9.99,
+    "timestamp_utc": "2026-03-11T20:33:47.333123+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481389698357264509/Screenshot_2026-03-11_at_21.33.39.png?ex=69b3232a&is=69b1d1aa&hm=97919dbad2764ff1a81cef469179b488a4ff34aa86dcf45bce8c89712dd7ab7d&"
+    ],
+    "content": "9.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481390099638915182",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-11T20:35:22.860096+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481390099446108230/Screenshot_2026-03-11_at_21.35.14.png?ex=69b3238a&is=69b1d20a&hm=c7077a55c0bc26af8619ec3f4b0dc656a8161a9299cbf96d965850f6339c763e&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481391428897865738",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-11T20:40:39.890882+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481391428360863754/Screenshot_2026-03-11_at_21.40.34.png?ex=69b324c7&is=69b1d347&hm=baf17239e5b7ed9c675cd1cee6183489e9c5d378e17c0a5465bfc37b324928bc&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481392107611488267",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 7.99,
+    "timestamp_utc": "2026-03-11T20:43:21.561394+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481392107431399564/Screenshot_2026-03-11_at_21.43.15.png?ex=69b32569&is=69b1d3e9&hm=1de1a28c50f82e0df2a1f49bf0a9770567ccc6e735e26b23251bc83687734b60&"
+    ],
+    "content": "7.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481396104502312971",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 60.0,
+    "timestamp_utc": "2026-03-11T20:59:14.605506+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481396104343060733/Screenshot_2026-03-11_at_21.59.09.png?ex=69b32922&is=69b1d7a2&hm=6cb6b47552020e103fbf3f8a98035ae86ed2c00f36048d58933c897c0d34d479&"
+    ],
+    "content": "60$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481398083483865150",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-11T21:07:06.371132+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481398083156836593/Screenshot_2026-03-11_at_22.07.00.png?ex=69b32afa&is=69b1d97a&hm=202a35f40307048fdcf1471b1873f8ed3d6d1e4a104028b8beebb5acade58744&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481404112607117476",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-11T21:31:04.066983+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481404112267640982/Screenshot_2026-03-11_at_22.30.58.png?ex=69b33097&is=69b1df17&hm=2108805ddd0e263204b425a3660def882ae3c606c3c41ff30133f747f0b75182&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481405223527514132",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-11T21:35:28.694310+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481405223212683364/Screenshot_2026-03-11_at_22.35.23.png?ex=69b331a0&is=69b1e020&hm=b071e700312c8f6c5c69c2460ef4865fbb22052da30d719f4670ab4910e5f226&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481408318974197801",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 15.0,
+    "timestamp_utc": "2026-03-11T21:47:46.911545+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481408318751768616/Screenshot_2026-03-11_at_22.47.41.png?ex=69b33482&is=69b1e302&hm=673528b9b8a14304e3c856f8393f6e5bf33a257dfee37d311166918befc42fc0&"
+    ],
+    "content": "15$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481408851541622857",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-11T21:49:53.671937+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481408851478581420/Screenshot_2026-03-11_at_22.49.48.png?ex=69b33501&is=69b1e381&hm=505b259fc3377c8d1334c0e8da2c975615a1604ce77b95a5b52e2cbc8e0f9b90&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481410110407577683",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 200.0,
+    "timestamp_utc": "2026-03-11T21:54:53.815247+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481410110000726066/Screenshot_2026-03-11_at_22.54.48.png?ex=69b3362d&is=69b1e4ad&hm=a3df58a23f5ea2d2e220b34969a6ea9006c087a134dca55aa8ea4d8f7b04e223&"
+    ],
+    "content": "200$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481418776040701962",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-11T22:29:19.912287+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481418775080472689/image.png?ex=69b33e3f&is=69b1ecbf&hm=68371d2058f286c610088139e0f71971f651facbe0652947589b8913fb9f3b80&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481421062603280434",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-11T22:38:24.996276+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481421062301421659/Screenshot_2026-03-11_at_23.38.17.png?ex=69b34060&is=69b1eee0&hm=267b166db0a02b1f698b84e473d78634e39187319fdbec6272d3c2e539a555a3&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481458211125989417",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 1.0,
+    "timestamp_utc": "2026-03-12T01:06:01.884658+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481458210702491729/Screenshot_2026-03-11_at_23.38.17.png?ex=69b362f9&is=69b21179&hm=26b37a106072c3c71d66f888d8899cde82038ed4f7d8b7f6d5219470f03049b6&"
+    ],
+    "content": "1$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481476177557197051",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 39.99,
+    "timestamp_utc": "2026-03-12T02:17:25.338589+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481476177104338995/Screenshot_2026-03-12_at_10.17.18_AM.png?ex=69b373b5&is=69b22235&hm=d640e4b597525859d1b0425db742c061166993cc0351945d3c2b56aa4a8c08ab&"
+    ],
+    "content": "39.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481523531882823871",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-12T05:25:35.485259+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481523531677171784/Screenshot_2026-03-12_at_1.25.28_PM.png?ex=69b39fcf&is=69b24e4f&hm=8a77a6a0ef33237fee583d88cbf2b17db102126c74d2d0679a1d6ebb382e2523&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481530390555656255",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 12.99,
+    "timestamp_utc": "2026-03-12T05:52:50.794602+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481530390614118542/Screenshot_2026-03-12_at_1.52.40_PM.png?ex=69b3a632&is=69b254b2&hm=9d442e04b2b26683aed0de56a4bcab3c96a6f6b9c020157dbb993dd22cfbe9f6&"
+    ],
+    "content": "12.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481539826808393800",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 49.0,
+    "timestamp_utc": "2026-03-12T06:30:20.658208+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481539826715983985/Screenshot_2026-03-12_at_2.30.08_PM.png?ex=69b3aefc&is=69b25d7c&hm=6efdebeb4be7f33c3f8d9ec26f8e3a48aa5bf16c850847beca008519dd0e765b&"
+    ],
+    "content": "49$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481586462779641918",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 12.99,
+    "timestamp_utc": "2026-03-12T09:35:39.480038+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481586462616059977/Screenshot_2026-03-12_at_5.35.32_PM.png?ex=69b3da6b&is=69b288eb&hm=28e2af6f1368a54ab14675f4d226c3ff486662207f0a2b9a3ffbf6db5e6cf77d&"
+    ],
+    "content": "12.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481638184021655562",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-12T13:01:10.863792+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481638183161561188/image.png?ex=69b40a96&is=69b2b916&hm=9cd19f045eea5ac37a5ae2542880e05b0d33b43310a327ad6370dbaa75460e32&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481640137875001439",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-12T13:08:56.768418+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481640137787052152/image.png?ex=69b40c68&is=69b2bae8&hm=15a1426c77482dd9c47de9e658a901cc3d28cb5904eaee6f934aa30511cc0a17&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481647913993113662",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-12T13:39:50.578911+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481647913728999445/image.png?ex=69b413a6&is=69b2c226&hm=c47dd31f669d3d554660e5b929f2959c2d42c354e13adf9d311427a7d3321098&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481650590223306883",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-12T13:50:28.630713+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481650589807939634/image.png?ex=69b41624&is=69b2c4a4&hm=9a8dcff368585fa5795879d0a2f58f958031ce2a863f64174ad7a5c5b9de78f9&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481701878252437637",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-12T17:14:17.093368+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481701877929345146/image.png?ex=69b445e8&is=69b2f468&hm=db165f28abe4c963f4367e4a655b75c1e447ff8810306e3cbc665429f13eb741&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481716740437184615",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-12T18:13:20.175142+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481716740076339231/image.png?ex=69b453bf&is=69b3023f&hm=c281b36ac9e073855d77bbbed81d010dae532d33c96e449feabfd97cb30cb0a6&"
+    ],
+    "content": "30$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481717636583788596",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-12T18:16:53.747540+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481717636260954213/image.png?ex=69b45495&is=69b30315&hm=2ef981199e1cc9d81a3f0bcb20a5164bce8ea344c5955f4459f03e9e3adee019&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481740479077814394",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-12T19:47:39.806694+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481740478776086699/image.png?ex=69b469db&is=69b3185b&hm=94f75b1b0f17845be348a6ebe956285b5812fe24824ed9c55eb1cc2369922140&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481760280907087932",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-12T21:06:21.069770+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481760280508760250/Screenshot_2026-03-12_at_22.06.15.png?ex=69b47c4c&is=69b32acc&hm=3d999213167db43f59f0d42454bd32d7ae2b217fdff0cb24ecc2ff77f1f3a5cc&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481764397046304818",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-12T21:22:42.290016+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481764396865818745/Screenshot_2026-03-12_at_22.22.10.png?ex=69b48022&is=69b32ea2&hm=325a1af17abdeb9d28d82884077d6cd6eebb082b00a00f69150ef9f20f0f9497&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481793322216591483",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 150.0,
+    "timestamp_utc": "2026-03-12T23:17:38.968979+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481793321994289303/image.png?ex=69b49b12&is=69b34992&hm=33dddf80486deed9b18e250c38d7ba77f9d344aac5668dd73708400fb9723154&"
+    ],
+    "content": "150$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481890005168423014",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-13T05:41:50.108809+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481890005096988772/Screenshot_2026-03-13_at_1.41.35_PM.png?ex=69b4f51d&is=69b3a39d&hm=8a6b5d7ea0a5a01b84034cefcfdc36cc4d32d0085f16713499f26721a730e81c&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481890608942415872",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 150.0,
+    "timestamp_utc": "2026-03-13T05:44:14.030422+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481890608581709955/Screenshot_2026-03-13_at_1.44.02_PM.png?ex=69b4f5ad&is=69b3a42d&hm=43bb062a7e9ca9764525e36ca7d52f7acf7500eb0c24a2c1d09de1c36634c4bc&"
+    ],
+    "content": "150$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481893594372505741",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 99.99,
+    "timestamp_utc": "2026-03-13T05:56:05.685490+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481893594192285839/Screenshot_2026-03-13_at_1.55.53_PM.png?ex=69b4f875&is=69b3a6f5&hm=ed3759950582d5506fd6ce6be668699d2b712548a1b3f42db08961bc77bdc63e&"
+    ],
+    "content": "99.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481900414801543179",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 35.0,
+    "timestamp_utc": "2026-03-13T06:23:11.857611+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481900414575054889/Screenshot_2026-03-13_at_2.22.58_PM.png?ex=69b4fecf&is=69b3ad4f&hm=ae457c896df33a0724d4ee505bac31d1b8743c6dd3fdefe3a0f2f264a5db025a&"
+    ],
+    "content": "35$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481920123458555925",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-13T07:41:30.751490+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481920123072811018/Screenshot_2026-03-13_at_3.41.14_PM.png?ex=69b5112a&is=69b3bfaa&hm=e85d9eefcaec0f586ad836255f2a5bc7c1bebe9626fdb77c22cafbc7caf65544&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1481923308684447786",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 5.0,
+    "timestamp_utc": "2026-03-13T07:54:10.174619+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1481923308390715423/Screenshot_2026-03-13_at_3.53.58_PM.png?ex=69b51421&is=69b3c2a1&hm=02e1a9003b62b3a7c545fbb55e981c38811f21189a2134ac1fc447f9af4f77f6&"
+    ],
+    "content": "5$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482017730063503472",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-13T14:09:21.666133+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482017729752858634/image.png?ex=69b56c11&is=69b41a91&hm=da00e100007815121a1ffd125abfe4e1efce64b9455a33854185807df4814084&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482021355703763046",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-13T14:23:46.047099+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482021355439525950/image.png?ex=69b56f71&is=69b41df1&hm=ef1a563138697053d3ba37ca92d0cf0ebdc969f43fa7a7cf29ccc030e2bc6abf&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482034665798897795",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-13T15:16:39.449813+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482034665303838882/image.png?ex=69b57bd7&is=69b42a57&hm=ef35fa59eeb73708b61ca1471fb5ec14e4fa7c9bddf0a18291677384280094fa&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482035297641435176",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-13T15:19:10.212262+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482035296940851261/image.png?ex=69b57c6d&is=69b42aed&hm=4353d4bb1c7b095a0c21b9e0ecb0e945954b9ff73a88cb3fff63924326a84e7a&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482037328087351297",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-13T15:27:14.203179+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482037327369998488/image.png?ex=69b57e51&is=69b42cd1&hm=6004dce65cbf9980137e642c8f120b83ddb3ff4eebb8b5a6c62a6de2e9ccf4c7&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482044271828926656",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-13T15:54:49.693155+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482044271476473866/image.png?ex=69b584c9&is=69b43349&hm=021224736e43c2f9b0ea308d2c6db851207f7a5deb09dac1bd8f3ec75f82679e&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482080817638543391",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-13T18:20:02.890825+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482080817264984146/Screenshot_2026-03-13_at_19.19.55.png?ex=69b5a6d2&is=69b45552&hm=73125d01b247f1ab61609e6bc6aaf417580d3349752ae28a833d10c162ab47bf&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482081495479877752",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-13T18:22:44.508970+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482081495073034401/Screenshot_2026-03-13_at_19.22.31.png?ex=69b5a774&is=69b455f4&hm=a251d8c60625fdc29f01794b6ed841377d2075a8addedd698c2ba91ed6077af5&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482167559657623612",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-14T00:04:43.851367+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482167559112626297/Screenshot_2026-03-14_at_01.04.29.png?ex=69b5f79b&is=69b4a61b&hm=8ca1248bbfc2b334b27b9546a435c9664717dc4f68dce7b7a22a6cfd2af0b301&"
+    ],
+    "content": "30$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482169690573766900",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-14T00:13:11.825300+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482169690393673898/Screenshot_2026-03-14_at_01.13.04.png?ex=69b5f997&is=69b4a817&hm=126828824a15f6ad21dc9c5d3b5b0cb6f0faf3fd0e28f800306f6345022c9640&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482179599944126616",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 22.99,
+    "timestamp_utc": "2026-03-14T00:52:34.533394+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482179599998914622/Screenshot_2026-03-14_at_01.52.26.png?ex=69b602d2&is=69b4b152&hm=02e6ed5dc980567364fb97e6622d5ff696e294a61a8f445723549cc64275e42b&"
+    ],
+    "content": "22.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482267519174840402",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-14T06:41:55.958737+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482267518973251594/Screenshot_2026-03-14_at_2.41.48_PM.png?ex=69b654b3&is=69b50333&hm=1db729e8f7aeb0c58aba07d0e2c417b6d3f4fa1fea10e6995c08aafb4b0c72a4&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482287284949618769",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-14T08:00:28.553479+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482287284765065226/Screenshot_2026-03-14_at_4.00.19_PM.png?ex=69b6671c&is=69b5159c&hm=ad9831d646b54fde02c1a4789dae4e152fb98c054419be8c04a723d36dcd3289&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482323242726195221",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-14T10:23:21.550036+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482323242659221514/image.png?ex=69b68899&is=69b53719&hm=ef5c329ecc4fb1ca4147c2dcd5ea405677799196c399392f62cc56565e202bec&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482337659178455142",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-14T11:20:38.656035+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482337658876461146/image.png?ex=69b69606&is=69b54486&hm=f7d0e1d6cea990eca37f7b7fbb45c1cb2cdfb9dfa395b325b62c146f96f43c93&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482339825079292071",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 150.0,
+    "timestamp_utc": "2026-03-14T11:29:15.230861+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482339824911253505/image.png?ex=69b6980a&is=69b5468a&hm=48d391d1d7fce8d80256b27e07fca47d91d66a6804c48b2c6815e22ce7606fb2&"
+    ],
+    "content": "150$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482342590287450174",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 199.99,
+    "timestamp_utc": "2026-03-14T11:40:14.417004+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482342590220075018/image.png?ex=69b69a9e&is=69b5491e&hm=c9c8afa2787bc5476df055ec17f7cf07ddc262fdf41b7800adbf2c4ced256112&"
+    ],
+    "content": "199.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482346325000458342",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-14T11:55:04.768114+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482346324564115612/image.png?ex=69b69e18&is=69b54c98&hm=0264a3e2ece8e519e7f3a90142f46b0b29851495c1c50ac1e3337cac8c511f79&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482347670621130843",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-14T12:00:25.672673+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482347670302625884/image.png?ex=69b69f59&is=69b54dd9&hm=7c7c9c991d11ccfdc9aa6f7856497c23864e04553214ae353087299687498edd&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482403640877649973",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-14T15:42:50.000764+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482403640500158514/image.png?ex=69b6d379&is=69b581f9&hm=7491c7cc0798f7ebcc7fcba9312378e55ea54d51e75815088fa31d657e740e70&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482405021218898082",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-14T15:48:19.005072+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482405020958986280/image.png?ex=69b6d4c2&is=69b58342&hm=33055c17bfd707593f845139e20de18439a11880e24bdd09f293b93e65914e59&"
+    ],
+    "content": "34.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482486419770572962",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 25.0,
+    "timestamp_utc": "2026-03-14T21:11:45.951747+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482486419527041257/image.png?ex=69b72091&is=69b5cf11&hm=7ee4c039c104e91bd090a9dcc2428231925fdf76f8499d8b1cbf31ba6183eb20&"
+    ],
+    "content": "25$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482513757791060028",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 54.99,
+    "timestamp_utc": "2026-03-14T23:00:23.893375+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482513757514240041/image.png?ex=69b73a07&is=69b5e887&hm=16dfc77decd3f1425fcda81809586735e5eabdca9b2d9961ec73e851cbcd286f&"
+    ],
+    "content": "54.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482518151047680050",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 40.0,
+    "timestamp_utc": "2026-03-14T23:17:51.268076+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482518150808469707/image.png?ex=69b73e1f&is=69b5ec9f&hm=eb02e3e8184f69fe3c565486a9ea1d287640ba6df26fb1d6bfdde58ea37349a4&"
+    ],
+    "content": "40$\\",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482542310620139683",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-15T00:53:51.367331+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482542310272139446/Screenshot_2026-03-15_at_01.53.43.png?ex=69b7549f&is=69b6031f&hm=6f61a2c01ff0a63e196be79dd0885b0548eeebed7fe26ddcdbc7d8fc18e735c4&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482544710949015584",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-15T01:03:23.682313+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482544710470996028/Screenshot_2026-03-15_at_02.03.16.png?ex=69b756db&is=69b6055b&hm=275a444a3eefba32c0ccf72bc313849f82acd76ecd66ce1aae57a8687f169a01&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482564553844723832",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-15T02:22:14.557390+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482564553609973811/Screenshot_2026-03-15_at_10.22.07_AM.png?ex=69b76956&is=69b617d6&hm=894d5e9f9c8317ebe70ea588e7984bc1eb0e22c6adcee405718abfd0706aa8fa&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482564671687888906",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-15T02:22:42.605256+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482564671373574194/Screenshot_2026-03-15_at_10.22.33_AM.png?ex=69b76972&is=69b617f2&hm=572b2af33bf3e563a645bacefcb3b1070d45683cb6783cc994fc0a6775c1d908&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482568402253123728",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-15T02:37:32.042678+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482568402076827769/Screenshot_2026-03-15_at_10.37.23_AM.png?ex=69b76ceb&is=69b61b6b&hm=5c7cb740d119c519f851f4e7fe94eded0699ed420829491288246ac2bc83637a&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482568499128963072",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-15T02:37:55.138978+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482568498923311266/Screenshot_2026-03-15_at_10.37.48_AM.png?ex=69b76d02&is=69b61b82&hm=e318eb2318d908ee64c22dc7c2df5a59aee3dd9ecfe065470feef6b29316c1a1&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482604965758242836",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 60.0,
+    "timestamp_utc": "2026-03-15T05:02:49.451539+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482604965578149999/Screenshot_2026-03-15_at_1.02.42_PM.png?ex=69b78ef9&is=69b63d79&hm=8a63af520b9820fcff6a784cebd2082fb428f5012ac014c626a8d2ecf0cb3a57&"
+    ],
+    "content": "60$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482612913725378671",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 49.99,
+    "timestamp_utc": "2026-03-15T05:34:24.428298+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482612913595224177/Screenshot_2026-03-15_at_1.34.17_PM.png?ex=69b79660&is=69b644e0&hm=bb80da3292484dd6e41e753f71fd459a2225ea5996f6fb3f83d6b0bdf0838e2e&"
+    ],
+    "content": "49.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482618695065927752",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-15T05:57:22.925917+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482618695108005919/Screenshot_2026-03-15_at_1.57.16_PM.png?ex=69b79bc2&is=69b64a42&hm=51714de7ad804fc87a01253a8333927a6317186f45e19ca972778d9cbb7cfb17&"
+    ],
+    "content": "30$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482676883777785928",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 35.99,
+    "timestamp_utc": "2026-03-15T09:48:36.165319+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482676883521798336/Screenshot_2026-03-15_at_5.48.28_PM.png?ex=69b7d1f3&is=69b68073&hm=15ea65da8700388a9584dd3570d9799f331dc427d9f5e96f0406fe75ac592d7b&"
+    ],
+    "content": "35.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482728164189929703",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-15T13:12:22.302588+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482728163900526692/image.png?ex=69b801b6&is=69b6b036&hm=377797ba1a3a382879ef130bf4445b72cdea31a6de16315c15f726f8c282cb98&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482772050392383710",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-15T16:06:45.556407+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482772050069164344/image.png?ex=69b82a95&is=69b6d915&hm=88a1e9494709c7102f89b748d451352cc4a3c93865979661f39c5fdea4e23f95&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482854632240840814",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-15T21:34:54.633761+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482854631934787767/image.png?ex=69b8777e&is=69b725fe&hm=0715bd1418bdb0ff4ab71df65aed8e8114185bbf5b7a68af4fb7332c978ce788&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482878091608064081",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-15T23:08:07.814180+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482878091381444800/image.png?ex=69b88d57&is=69b73bd7&hm=da5c0cf121a64838bdbec0fdb062cf1b97cc5ff6a5ccebc5c4d84589d9eab8e8&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482879606607319290",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 25.0,
+    "timestamp_utc": "2026-03-15T23:14:10.373042+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482879606309519401/image.png?ex=69b88ec0&is=69b73d40&hm=d69875432bc86d16e3e7e3a5174d3b6ea1f38fa311289eed31f4176c7ad6394f&"
+    ],
+    "content": "25$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482881050165383331",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-15T23:19:53.223981+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482881049729040424/image.png?ex=69b89018&is=69b73e98&hm=8e5287b88e2bf34b023895b74d9501562fefcaa8b5bdf0e58cc44642ebc728f3&"
+    ],
+    "content": "30$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482882029329580114",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-15T23:23:46.563571+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482882028843171880/image.png?ex=69b89102&is=69b73f82&hm=c403945eb844e2cf6b89e7ee2933fe583cf0d7c53510f9158adcc2903c0057ce&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482898782659285084",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-16T00:30:20.929252+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482898782386520134/image.png?ex=69b8a09c&is=69b74f1c&hm=d137025b977d4c08f97a4f7f85cff47c8abd56859aaab5112cb88699ac772d4c&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482952910609449125",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 13.99,
+    "timestamp_utc": "2026-03-16T04:05:26.009712+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482952910441680936/Screenshot_2026-03-16_at_12.05.15_PM.png?ex=69b8d305&is=69b78185&hm=f90fb50513dd1c8ce75a79465b235bbe6eb52388975f2c34142884520e16aec6&"
+    ],
+    "content": "13.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482962214259523666",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T04:42:24.215220+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482962214037094471/Screenshot_2026-03-16_at_12.42.17_PM.png?ex=69b8dbaf&is=69b78a2f&hm=aac5e94e168d3fb4fe19bd1798f261de1f1721f8b8b2e21e76ae3736fc41dd4a&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482996036862480425",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-16T06:56:48.174534+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482996036678189209/Screenshot_2026-03-16_at_2.56.38_PM.png?ex=69b8fb2f&is=69b7a9af&hm=15032a9995ad9fe4717115168fd39e9da2b7e5591934da481e68d9726077808b&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1482999959967240222",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-16T07:12:23.499625+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1482999959543484498/Screenshot_2026-03-16_at_3.12.12_PM.png?ex=69b8fed7&is=69b7ad57&hm=9c556f0328a402f1cdf39319d7cc071303035e2d57f5a96d455f38e93339defd&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483036367096250381",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T09:37:03.630310+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483036366789939281/Screenshot_2026-03-16_at_5.36.53_PM.png?ex=69b920bf&is=69b7cf3f&hm=5b4d5d50d4721b350bda7b1bf8b6ac769f57b4679c6de9a0a585039d284c9fae&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483044527928250441",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-16T10:09:29.424027+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483044527508815973/image.png?ex=69b92858&is=69b7d6d8&hm=c3be9812d046c1dfec59ad190b579fbb4a304343c441e4a0a87aec8c93daa55b&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483044591702642749",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T10:09:44.527099+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483044591266693192/image.png?ex=69b92868&is=69b7d6e8&hm=a604f676648208f11f1c901fa516cb6e5d42fa626e419535d5f161f0ce573c3f&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483047493972394099",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 44.99,
+    "timestamp_utc": "2026-03-16T10:21:16.533528+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483047493783519373/image.png?ex=69b92b1c&is=69b7d99c&hm=a693611b46a84e75deb67cbace7c968a923b68bc9480f55fa0cc8de459af8e15&"
+    ],
+    "content": "$44.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483072186498547846",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-16T11:59:23.777000+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483072186628575294/image.png?ex=69b9421b&is=69b7f09b&hm=6ebdf19ab8e7ef6e70e7c71b7756db63bd9af3f1028eded072aa2dd6b6bdb0e7&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483074091689709658",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 20.99,
+    "timestamp_utc": "2026-03-16T12:06:57.899022+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483074091337515008/image.png?ex=69b943e1&is=69b7f261&hm=5a80fc1a923b4d55b4a04865d09f21048e3501e3b58bb67f71508927f1d3da33&"
+    ],
+    "content": "20.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483105788158546121",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-16T14:12:54.895566+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483105787902427266/image.png?ex=69b96166&is=69b80fe6&hm=a498775f029c4c09a55137a4b342398350762f9783ea2b65ed9c5f0d2df08f90&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483111428704440360",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T14:35:19.682619+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483111428432072724/image.png?ex=69b966a7&is=69b81527&hm=8d70b5dec5659b2e253c52ad2a23e2326bcc53fea227857e58554a1c145716b5&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483141064637546597",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 35.0,
+    "timestamp_utc": "2026-03-16T16:33:05.430624+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483141064285098167/image.png?ex=69b98241&is=69b830c1&hm=0288fbbeb001198cb9d2e44bc4f2a120eae4f09ec54eccf06fdad50e3388ce27&"
+    ],
+    "content": "35$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483141687550410803",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-16T16:35:34.101925+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483141687223124128/image.png?ex=69b982d5&is=69b83155&hm=1cc96e787c848f9a6cff988188d5ce5ef359f15ece37e128ca1d69a86874fe4e&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483143537183953149",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T16:42:55.020159+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483143536638558299/image.png?ex=69b9848e&is=69b8330e&hm=2ad0b5423041e0450a40bf9014f6e6610e0f7e2b08891a141b71925bbed50e94&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483147331779166328",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 49.99,
+    "timestamp_utc": "2026-03-16T16:57:59.671757+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483147331330248804/image.png?ex=69b98817&is=69b83697&hm=41f52e8020acbdab17ba0e7d473a9e857282513db07dc5e59bdef934ac0838b6&"
+    ],
+    "content": "49.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483147445750730847",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 35.0,
+    "timestamp_utc": "2026-03-16T16:58:26.952219+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483147445641674947/image.png?ex=69b98832&is=69b836b2&hm=be291af22749725da9009e68f43869144d3a8e709f7f3da2482da0e43cee8586&"
+    ],
+    "content": "$35",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483147904519639150",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-16T17:00:16.360173+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483147903982895267/image.png?ex=69b9889f&is=69b8371f&hm=2ac67d4704698685c10a6f98ec9188d4d474654b719d6e89d376919ac58f2054&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483150013189062818",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-16T17:08:38.939691+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483150012920889374/image.png?ex=69b98a96&is=69b83916&hm=20df46b175f4ec883e5cca6c543a28c20a3e6371c7358889264fc8ea882cb1a9&"
+    ],
+    "content": "$50",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483152527208878131",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-16T17:18:38.444420+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483152526919602378/image.png?ex=69b98cee&is=69b83b6e&hm=c4051bcd5dc6448ac94725166141f2e35eaecb070f14e331ebab63529bae34d9&"
+    ],
+    "content": "$20",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483152600995205263",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 22.0,
+    "timestamp_utc": "2026-03-16T17:18:56.105759+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483152600948936885/image.png?ex=69b98cff&is=69b83b7f&hm=6314013d3bd5b7bd53ce39f8eafc9b5c31b4c8ee359abf63ed033374d50f0cf0&"
+    ],
+    "content": "$22",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483157771322134588",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 35.0,
+    "timestamp_utc": "2026-03-16T17:39:28.674566+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483157770822877315/image.png?ex=69b991d0&is=69b84050&hm=cb9f9c57d3e1b472366199048cc111fe3f37062cf25ec6776cd5827cf6ebac5d&"
+    ],
+    "content": "$35",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483159397294407821",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 67.0,
+    "timestamp_utc": "2026-03-16T17:45:56.283987+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483159396946149376/image.png?ex=69b99354&is=69b841d4&hm=5f77e396dfcc308b94717c8f783e322f3aef5094738b17ee478eff32638375be&"
+    ],
+    "content": "67$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483160949342081094",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 30.0,
+    "timestamp_utc": "2026-03-16T17:52:06.362838+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483160949056602162/image.png?ex=69b994c6&is=69b84346&hm=2140bd5da12eb5d63c4ac05b5a0bf9d184b89927feddfc312634e3574105cfc6&"
+    ],
+    "content": "$30",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483166904674947143",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 35.99,
+    "timestamp_utc": "2026-03-16T18:15:46.298964+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483166904410701895/image.png?ex=69b99a51&is=69b848d1&hm=b13f9cfb1962dde88d8da8af593cb26d2db72389170953b5126d176d55b0f1a7&"
+    ],
+    "content": "35.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483168426045346057",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-16T18:21:48.921781+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483168425797750905/image.png?ex=69b99bbc&is=69b84a3c&hm=23c18871ace80c8e5bed77a3a7b627760d9e5185d9bff355e6386a7ff2643557&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483172485833953374",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-16T18:37:56.996689+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483172485854793758/image.png?ex=69b99f84&is=69b84e04&hm=d3423f8defab73b6a649ff21cc3491d363217d6a90a0f5e88b032b2fd7377bf0&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483174263958802603",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-16T18:45:00.842256+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483174263354687538/image.png?ex=69b9a12c&is=69b84fac&hm=b52605a3d72b56896edc62b1c1cf5e1f75ed3cc779b397e509611f2bed1692b8&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483239055381630986",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 59.99,
+    "timestamp_utc": "2026-03-16T23:02:28.324087+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483239055100739737/image.png?ex=69b9dd83&is=69b88c03&hm=1f32561a8e26e899d11777510a30f0ba916b5c7433cd578c63bd1fce8b25a980&"
+    ],
+    "content": "59.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483239906670285016",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-16T23:05:51.311311+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483239906204455143/image.png?ex=69b9de4e&is=69b88cce&hm=6f787865a3919bd0a732d363865563017a35b11944b2576933d5deab00f96374&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483242447055228929",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 49.99,
+    "timestamp_utc": "2026-03-16T23:15:57.017341+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483242446795046963/image.png?ex=69b9e0ac&is=69b88f2c&hm=05b28a4191b5fb7010ed4babcedef182fd8704739e8af2eead784e262ede32f4&"
+    ],
+    "content": "49.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483245861701030053",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-16T23:29:31.204864+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483245861407555584/image.png?ex=69b9e3da&is=69b8925a&hm=f351dbeb8389b6f14af29ea2b66ec3b79e773bda26557431f94cff5633b7897b&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483247007849255087",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 45.99,
+    "timestamp_utc": "2026-03-16T23:34:04.366519+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483247007777947780/image.png?ex=69b9e4ec&is=69b8936c&hm=f6636a3e1762aca71c9b03f3e6be99c378e98cb12382709815d1cb7fa450cfa0&"
+    ],
+    "content": "45.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483253256741327019",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-16T23:58:54.163993+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483253256485339306/image.png?ex=69b9eabd&is=69b8993d&hm=e8334de05898d87d435018856f63e590f3ee7726d183b80c5dd1f8ac2e80ad6e&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483255597573996565",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-17T00:08:12.351929+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483255597364412587/Screenshot_2026-03-17_at_01.08.02.png?ex=69b9eceb&is=69b89b6b&hm=71baf2b5cbccbd43674d3a46a9f19b6c984209bd62203ebfbc1a8036a363b308&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483270986127380620",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 32.99,
+    "timestamp_utc": "2026-03-17T01:09:21.155462+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483270985787511025/image.png?ex=69b9fb40&is=69b8a9c0&hm=8ac5b46df7fe37f8ba6dec5b01821a7234582cee64c4b657e28fc173f09241f7&"
+    ],
+    "content": "32.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483327072888815767",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 39.99,
+    "timestamp_utc": "2026-03-17T04:52:13.288835+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483327072532168855/Screenshot_2026-03-17_at_12.52.06_PM.png?ex=69ba2f7c&is=69b8ddfc&hm=10d356b09d2e06eef34a5acdf5ccdafccaf0202b8111fd6f9dbf2a79c59191a5&"
+    ],
+    "content": "39.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483330113285259264",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 42.99,
+    "timestamp_utc": "2026-03-17T05:04:18.130835+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483330112949583943/Screenshot_2026-03-17_at_1.04.08_PM.png?ex=69ba3251&is=69b8e0d1&hm=4e6d81cc5fb7adfafdc28ea8050891b41477fcd922591f781d2a4e3a4fa4d589&"
+    ],
+    "content": "42.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483351195664912395",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 19.98,
+    "timestamp_utc": "2026-03-17T06:28:04.590811+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483351195434221679/Screenshot_2026-03-17_at_2.27.53_PM.png?ex=69ba45f4&is=69b8f474&hm=234dc17c1d2ea6df6300f25d8a72fc6b44ac842c42647927781cf6fdd208096e&"
+    ],
+    "content": "19.98$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483368156465463306",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 10.0,
+    "timestamp_utc": "2026-03-17T07:35:28.321034+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483368156121796660/Screenshot_2026-03-17_at_3.35.17_PM.png?ex=69ba55c0&is=69b90440&hm=417788287dc937db0de4e5e2c4a4a66c5cf2b3eeb04c9a7581a15e7187636db8&"
+    ],
+    "content": "10$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483373801990520842",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 32.99,
+    "timestamp_utc": "2026-03-17T07:57:54.322629+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483373801772290149/Screenshot_2026-03-17_at_3.57.47_PM.png?ex=69ba5b02&is=69b90982&hm=b3dc5b2fec504a721a39ea83ee9cb008fef4353ac23f86cb563fdf287285fb52&"
+    ],
+    "content": "32.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483378812845817969",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 23.99,
+    "timestamp_utc": "2026-03-17T08:17:49.157976+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483378812531118221/Screenshot_2026-03-17_at_4.17.38_PM.png?ex=69ba5fac&is=69b90e2c&hm=a77b43cac5470ae7d8b07b94875468aa30babd2b41bc30e8381696f1e92a832f&"
+    ],
+    "content": "23.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483385849499357305",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-17T08:45:46.781666+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483385849168138392/Screenshot_2026-03-17_at_4.45.38_PM.png?ex=69ba663a&is=69b914ba&hm=6ddf8ea63075d0ccb280a813b017ef706f571278e7c9564f6655a9323f304fb3&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483392715512348672",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 20.0,
+    "timestamp_utc": "2026-03-17T09:13:03.730183+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483392715163959326/Screenshot_2026-03-17_at_5.12.48_PM.png?ex=69ba6c9f&is=69b91b1f&hm=f9100f2b6937332e5361966bdc6990d6bf679e73de46a50efafba2a2a6d2c75f&"
+    ],
+    "content": "20$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483412615635013725",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 35.0,
+    "timestamp_utc": "2026-03-17T10:32:08.415116+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483412615400128562/image.png?ex=69ba7f27&is=69b92da7&hm=407843a28d83c3b5265c7708c35891d4e81d6308098b5bc44248a04ef91d19b3&"
+    ],
+    "content": "35$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483413616811180114",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-17T10:36:07.014659+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483413616727167098/image.png?ex=69ba8016&is=69b92e96&hm=40e080f43a4011dc6acc4611e706cafabeb79b78eec0c2f26e344c651d238f9d&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483418194499604583",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 55.0,
+    "timestamp_utc": "2026-03-17T10:54:18.426094+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483418194310991973/image.png?ex=69ba845a&is=69b932da&hm=997dafea9013049fcbec3aae3189ea5c05b2e53cf4e4c304397fe93c6a8dc3b6&"
+    ],
+    "content": "55$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483429170649370695",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-17T11:37:55.341682+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483429170007638026/image.png?ex=69ba8e92&is=69b93d12&hm=b70c9fa45f4ae0621de679fa931e5a6475bb48b27885f6787fa5b7fd0b09a651&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483432873531805750",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-17T11:52:38.156443+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483432873406103583/image.png?ex=69ba9205&is=69b94085&hm=bf44a02924a52c73e67958d8604c97c8c91c7234276503d0dd56fc634782b4a8&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483448814588399646",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 100.0,
+    "timestamp_utc": "2026-03-17T12:55:58.745036+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483448814307250247/image.png?ex=69baa0de&is=69b94f5e&hm=2d481498059ddabef5630ed2bdf6723aba7eb2f7722cfc48357f27afaeb80b5d&"
+    ],
+    "content": "100$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483454241791283323",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 21.99,
+    "timestamp_utc": "2026-03-17T13:17:32.696937+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483454241497678005/image.png?ex=69baa5ec&is=69b9546c&hm=21d3377343a03d6e14686a2d4b2f71661ae87135a26643a4796ae11ec91382f0&"
+    ],
+    "content": "21.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483480326792679639",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-17T15:01:11.867666+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483480326394347643/image.png?ex=69babe37&is=69b96cb7&hm=2585cb1a3d7d730cdf6b057d9eddcbb9619c593f75fbd38b282f21e42fba2875&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483491774390341804",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 29.99,
+    "timestamp_utc": "2026-03-17T15:46:41.149484+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483491774004461758/image.png?ex=69bac8e0&is=69b97760&hm=d85e46e83474697df2a6a895c3ca04ee08850d6e562fd4d8eca421dcdc462dd3&"
+    ],
+    "content": "29.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483494926271512576",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-17T15:59:12.655858+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483494925206294690/image.png?ex=69bacbd0&is=69b97a50&hm=7c1756fddb292cdf62267883f037bf6884f101ae6e19b7677b85bc0a49627411&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483501591184015402",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 36.99,
+    "timestamp_utc": "2026-03-17T16:25:41.664641+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483501590894743572/image.png?ex=69bad205&is=69b98085&hm=0fb11aae37dd680a74dd741bb6aae0fc89056f79898cf8fb2b60d77aa285ffa8&"
+    ],
+    "content": "$36.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483506856944074804",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 49.99,
+    "timestamp_utc": "2026-03-17T16:46:37.249713+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483506856423854090/image.png?ex=69bad6ec&is=69b9856c&hm=562467ebe1b5a04d45a10c4afedda6073767c88267b0edede2fa0df6122710e3&"
+    ],
+    "content": "$49.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483508121803690175",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 28.0,
+    "timestamp_utc": "2026-03-17T16:51:38.790533+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483508121560285306/image.png?ex=69bad81a&is=69b9869a&hm=ea241bb2426e9e173092bc5e1a96167c1adda30d547a6075f877c7ed45c49e7c&"
+    ],
+    "content": "28$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483509906886885436",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 99.99,
+    "timestamp_utc": "2026-03-17T16:58:44.301404+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483509906521985044/image.png?ex=69bad9c3&is=69b98843&hm=d36b592ee464109e9452921392739fbe6f93abe2df3a8621889b36b07f0e29fc&"
+    ],
+    "content": "99.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483515354809634978",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 12.99,
+    "timestamp_utc": "2026-03-17T17:20:23.191878+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483515354486411434/image.png?ex=69baded6&is=69b98d56&hm=556df7be1656143001f07eaa0732f77d53d337bf362fd9460b02f03a705b1d33&"
+    ],
+    "content": "12.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483515406743240805",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 39.99,
+    "timestamp_utc": "2026-03-17T17:20:35.652204+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483515406751764480/image.png?ex=69badee3&is=69b98d63&hm=af879752365253854ecf40334546e6e9f382c42bc792ace1fe250da978edda88&"
+    ],
+    "content": "39.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483576335313010788",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 35.99,
+    "timestamp_utc": "2026-03-17T21:22:42.108603+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483576334994247690/image.png?ex=69bb17a1&is=69b9c621&hm=7a994f810caf9515c51da2aea95645644e737622b2e95e2ddf7d6b8eb98c4dcc&"
+    ],
+    "content": "35.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483576585801175173",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 15.99,
+    "timestamp_utc": "2026-03-17T21:23:41.771513+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483576585536798730/image.png?ex=69bb17dd&is=69b9c65d&hm=df7d70dd08439c5369b8fd0374d661f8e99009436920908bc53babd5bc3ec959&"
+    ],
+    "content": "15.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483584721811280043",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 24.99,
+    "timestamp_utc": "2026-03-17T21:56:01.581515+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483584721387651133/image.png?ex=69bb1f71&is=69b9cdf1&hm=55a4c4e633ad5daa3b31550e63d7a727e77d9550f9b1c0d914715f7bfbad4d9f&"
+    ],
+    "content": "24.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483601320698187777",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 40.0,
+    "timestamp_utc": "2026-03-17T23:02:05.587044+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483601320488206467/Screenshot_2026-03-18_at_00.01.51.png?ex=69bb2ee6&is=69b9dd66&hm=a8afec4eea4451bedd20e7cf62a0276a63c9bddb34be2149828d254738e2ecc7&"
+    ],
+    "content": "40$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483606576915812486",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 45.0,
+    "timestamp_utc": "2026-03-17T23:22:58.558126+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483606576836116662/Screenshot_2026-03-18_at_00.22.46.png?ex=69bb33cb&is=69b9e24b&hm=c7bc211b1b16d73b236fae62c3ab89b9c6273d4e8fb21388cea1bf7e3713343a&"
+    ],
+    "content": "45$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483636063342690465",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 34.55,
+    "timestamp_utc": "2026-03-18T01:20:08.720689+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483636063049355435/image.png?ex=69bb4f42&is=69b9fdc2&hm=260c9d4040bf6856e8cdb79a8761849aa66f9fb095f7914f0ffda42fdc6c892c&"
+    ],
+    "content": "34.55$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483637966273515643",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 50.0,
+    "timestamp_utc": "2026-03-18T01:27:42.256046+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483637966034178168/image.png?ex=69bb5107&is=69b9ff87&hm=0b5a5b020bea2ec843be5019aa902dac7c1aa8d752891c7f440878f1cf15ad69&"
+    ],
+    "content": "50$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483639366394974269",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 59.99,
+    "timestamp_utc": "2026-03-18T01:33:16.097253+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483639366122475680/image.png?ex=69bb5255&is=69ba00d5&hm=d4fb3d0cd05b6f1009ce72073ba19683919e6f7f602e2d3950cb17f00b650bd3&"
+    ],
+    "content": "59.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483732053269680198",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 9.99,
+    "timestamp_utc": "2026-03-18T07:41:34.489453+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483732052925874226/Screenshot_2026-03-18_at_3.41.19_PM.png?ex=69bba8a7&is=69ba5727&hm=b2aaba82e08ac5cd12b7d8340e74fbd11c42f12c88eb8e75b75cea978f2501a2&"
+    ],
+    "content": "9.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483734973201645599",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 21.99,
+    "timestamp_utc": "2026-03-18T07:53:04.280896+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483734972526235668/Screenshot_2026-03-18_at_3.52.54_PM.png?ex=69bbab5f&is=69ba59df&hm=98b0a1c4af5c58703f15edf8139f39e35bbd8bb914cee5c5f73f5a1e605cf7d2&"
+    ],
+    "content": "21.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483747484789637190",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-18T08:42:47.251803+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483747484336656414/Screenshot_2026-03-18_at_4.42.39_PM.png?ex=69bbb706&is=69ba6586&hm=4d42c7dd9dd5570e610346b9c06eebcc56af3b892da45fcf056733d21c21821e&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483750775904665620",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 69.99,
+    "timestamp_utc": "2026-03-18T08:55:51.922051+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483750775426387968/Screenshot_2026-03-18_at_4.55.41_PM.png?ex=69bbba17&is=69ba6897&hm=3d4fc8b17ad6d72a60db03ebaff5699de756d01bb3b6bfe6ff9da55c28802e7d&"
+    ],
+    "content": "69.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483756344866639903",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": 69.99,
+    "timestamp_utc": "2026-03-18T09:17:59.707028+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483756344636080198/Screenshot_2026-03-18_at_5.17.50_PM.png?ex=69bbbf47&is=69ba6dc7&hm=b77031c299841c04f3e9a01012fe52375213285fc5346da34c9a9e9ae758a740&"
+    ],
+    "content": "69.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483775084928696421",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-18T10:32:27.692849+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483775084584767580/image.png?ex=69bbd0bb&is=69ba7f3b&hm=474e6c8ca5f3126de5c1a6ef76876e7a8fc93f7f5eca0b3db6552b92cadfc250&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483779932177039480",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 34.99,
+    "timestamp_utc": "2026-03-18T10:51:43.343982+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483779931912671252/image.png?ex=69bbd53f&is=69ba83bf&hm=cd6045315e57786d1239ea9b7dd87cd84f4253c39687164e146dc1646c124784&"
+    ],
+    "content": "34.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483782027768758294",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 55.99,
+    "timestamp_utc": "2026-03-18T11:00:03.022257+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483782027558781070/image.png?ex=69bbd732&is=69ba85b2&hm=9ed190b3ca4a2d3e0f3a2544879d96c7a9bd236d76192116f2dfc5878c8e3954&"
+    ],
+    "content": "$55.99",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483811918119440384",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 8.0,
+    "timestamp_utc": "2026-03-18T12:58:49.446369+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483811917758861422/image.png?ex=69bbf309&is=69baa189&hm=11dde87b01abcc283e072f4f9f6facc07627704937d94cb5f31da01951cb76d2&"
+    ],
+    "content": "8$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483867230411427870",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 35.99,
+    "timestamp_utc": "2026-03-18T16:38:36.955012+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483867230075621487/image.png?ex=69bc268c&is=69bad50c&hm=b42f141dd792273393bcf7961eaebf277fcb1966a64602a63c4c6d65fbac3a23&"
+    ],
+    "content": "35.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483875481034948710",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 19.99,
+    "timestamp_utc": "2026-03-18T17:11:24.071118+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483875480519053322/image.png?ex=69bc2e3b&is=69badcbb&hm=62085e9f520a2d972b4305defb8338292bfccb267d2b279e0d8a58cfcab3d8b3&"
+    ],
+    "content": "19.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483877644725518547",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": 39.99,
+    "timestamp_utc": "2026-03-18T17:20:00.041732+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483877644398235688/image.png?ex=69bc303f&is=69badebf&hm=3f299d060652c43101f28736364a62f4f38cf92c0d3904e3fc02135643141e49&"
+    ],
+    "content": "39.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483905998677741629",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 70.0,
+    "timestamp_utc": "2026-03-18T19:12:40.061896+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483905998250053734/image.png?ex=69bc4aa7&is=69baf927&hm=ac019347cfbf2b5d6f117a70b179e69af6c956d386fa76124cc8693f63ee3e56&"
+    ],
+    "content": "70$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483909619213664507",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 49.99,
+    "timestamp_utc": "2026-03-18T19:27:03.206803+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483909618814943332/image.png?ex=69bc4e06&is=69bafc86&hm=8a888f83ad5042ce94026fa3d2574bf0c647cf4b2ba64ff8156cdad555e662ad&"
+    ],
+    "content": "49.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "manual_remove_1773862035.97338",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": -3048.78,
+    "timestamp_utc": "2026-03-18T19:27:15.973399+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for verifiedlouis",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "manual_remove_1773862056.755334",
+    "user_id": "1471425711989329954",
+    "username": "melly010200.",
+    "currency": "$",
+    "amount": -1779.69,
+    "timestamp_utc": "2026-03-18T19:27:36.755347+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for melly010200.",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "manual_remove_1773862114.803006",
+    "user_id": "1054938807243386890",
+    "username": "rem40",
+    "currency": "$",
+    "amount": -1171.77,
+    "timestamp_utc": "2026-03-18T19:28:34.803020+00:00",
+    "attachment_urls": [],
+    "content": "Manual remove by verifiedlouis for rem40",
+    "entry_type": "manual_remove"
+  },
+  {
+    "message_id": "1483923393949733054",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 39.99,
+    "timestamp_utc": "2026-03-18T20:21:47.393471+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483923393517588631/image.png?ex=69bc5ada&is=69bb095a&hm=11868e37933423997b5f4e37e1ade56c3691d7bb229525f26bf77823d141836c&"
+    ],
+    "content": "39.99$",
+    "entry_type": "sale"
+  },
+  {
+    "message_id": "1483957410375925840",
+    "user_id": "1156330239752933436",
+    "username": "verifiedlouis",
+    "currency": "$",
+    "amount": 14.99,
+    "timestamp_utc": "2026-03-18T22:36:57.483689+00:00",
+    "attachment_urls": [
+      "https://cdn.discordapp.com/attachments/1478883015689240646/1483957410115883018/image.png?ex=69bc7a89&is=69bb2909&hm=5bd7e8a8ea4ae1eb21118d9c7f39d0a333f241868426c05de749c289fbb5822a&"
+    ],
+    "content": "14.99$",
+    "entry_type": "sale"
   }
 ]
